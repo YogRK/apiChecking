@@ -1,0 +1,12 @@
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\bin\Debug\net6.0\PortfolioApi.SharedKernel.deps.json
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\bin\Debug\net6.0\PortfolioApi.SharedKernel.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\bin\Debug\net6.0\PortfolioApi.SharedKernel.pdb
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.csproj.AssemblyReference.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.AssemblyInfoInputs.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.AssemblyInfo.cs
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.csproj.CoreCompileInputs.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\refint\PortfolioApi.SharedKernel.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\PortfolioApi.SharedKernel.pdb
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.SharedKernel\obj\Debug\net6.0\ref\PortfolioApi.SharedKernel.dll

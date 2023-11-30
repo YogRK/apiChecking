@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1xHMi9Fj15At58Zk2A+D7JcxKSMN3UFT85Mk+yt8VysVgLaafI6yYv56j836xf/TVwqlzULsX113IOUWU/dEA==",
+  "success": true,
+  "projectFilePath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\PortfolioApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TSP\\.nuget\\packages\\ardalis.guardclauses\\4.0.0\\ardalis.guardclauses.4.0.0.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\ardalis.result\\3.1.2\\ardalis.result.3.1.2.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

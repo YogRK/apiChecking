@@ -1,0 +1,7 @@
+{
+  "PortfolioApi.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core",
+  "PortfolioApi.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Infrastructure",
+  "PortfolioApi.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel",
+  "PortfolioApi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\tests\\PortfolioApi.UnitTests",
+  "PortfolioApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Web"
+}

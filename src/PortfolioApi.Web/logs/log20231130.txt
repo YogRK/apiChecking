@@ -1,0 +1,40 @@
+2023-11-30 12:26:45.461 +05:30 [INF] User profile is available. Using 'C:\Users\TSP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-30 12:26:48.192 +05:30 [INF] Entity Framework Core 6.0.2 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2023-11-30 12:26:50.248 +05:30 [INF] Executed DbCommand (38ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-11-30 12:26:50.390 +05:30 [INF] Executed DbCommand (116ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2023-11-30 12:26:50.433 +05:30 [INF] Entity Framework Core 6.0.2 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2023-11-30 12:26:50.988 +05:30 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [ToDoItems] AS [t]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2023-11-30 12:26:51.378 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-30 12:26:51.378 +05:30 [INF] Hosting environment: Development
+2023-11-30 12:26:51.378 +05:30 [INF] Content root path: D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Web\
+2023-11-30 12:26:51.511 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:57678/swagger/index.html - -
+2023-11-30 12:26:52.661 +05:30 [WRN] Failed to determine the https port for redirect.
+2023-11-30 12:26:52.896 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:57678/_framework/aspnetcore-browser-refresh.js - -
+2023-11-30 12:26:52.897 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:57678/_vs/browserLink - -
+2023-11-30 12:26:52.907 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:57678/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 8.8201ms
+2023-11-30 12:26:52.920 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:57678/swagger/index.html - - - 200 - text/html;charset=utf-8 1412.1095ms
+2023-11-30 12:26:53.120 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:57678/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 222.3059ms
+2023-11-30 12:26:53.268 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:57678/swagger/v1/swagger.json - -
+2023-11-30 12:26:53.468 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:57678/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 199.8363ms

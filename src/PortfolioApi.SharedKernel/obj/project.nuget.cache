@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQGqHWpJQIiPxzunNbVlU14rankGPTAAT0CelpnmaK/exOOnprC7zEHWCahG3ZCkJQM1fFBsV+g2CiCdLqXwGw==",
+  "success": true,
+  "projectFilePath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TSP\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\TSP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

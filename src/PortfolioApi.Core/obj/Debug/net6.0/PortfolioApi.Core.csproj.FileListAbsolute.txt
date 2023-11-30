@@ -1,0 +1,15 @@
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\bin\Debug\net6.0\PortfolioApi.Core.deps.json
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\bin\Debug\net6.0\PortfolioApi.Core.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\bin\Debug\net6.0\PortfolioApi.Core.pdb
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\bin\Debug\net6.0\PortfolioApi.SharedKernel.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\bin\Debug\net6.0\PortfolioApi.SharedKernel.pdb
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.csproj.AssemblyReference.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.AssemblyInfoInputs.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.AssemblyInfo.cs
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.csproj.CoreCompileInputs.cache
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.csproj.CopyComplete
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\refint\PortfolioApi.Core.dll
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\PortfolioApi.Core.pdb
+D:\portfolio-creater-main\portfolio-creater-main\PortfolioApi\src\PortfolioApi.Core\obj\Debug\net6.0\ref\PortfolioApi.Core.dll

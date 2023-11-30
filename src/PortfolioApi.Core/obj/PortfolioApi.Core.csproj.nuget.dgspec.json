@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\PortfolioApi.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\PortfolioApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\PortfolioApi.Core.csproj",
+        "projectName": "PortfolioApi.Core",
+        "projectPath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\PortfolioApi.Core.csproj",
+        "packagesPath": "C:\\Users\\TSP\\.nuget\\packages\\",
+        "outputPath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\NuGet.Config",
+          "C:\\Users\\TSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj": {
+                "projectPath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Ardalis.Result": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj",
+        "projectName": "PortfolioApi.SharedKernel",
+        "projectPath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\PortfolioApi.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\TSP\\.nuget\\packages\\",
+        "outputPath": "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\src\\PortfolioApi.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\portfolio-creater-main\\portfolio-creater-main\\PortfolioApi\\NuGet.Config",
+          "C:\\Users\\TSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
